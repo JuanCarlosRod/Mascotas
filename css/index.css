@@ -1,0 +1,25 @@
+.bodyImag{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    flex-direction: row;
+}
+
+.textBox{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+}
+
+.textBox .p1{
+    margin-top: 0;
+    margin-bottom: 5%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    background-color: #232D39;
+}

@@ -1,0 +1,37 @@
+h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+tr{
+    text-align: center;
+}
+td, th{
+    color: white;
+    margin: 5px;
+    background: gray;
+    padding: 9px;
+    font-size: 17px;
+}
+
+th{
+    font-weight: bold;
+}
+section{
+    margin-bottom: 2%;
+}
+.tableDiv{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+}
+
+.firstTitle{
+    margin-bottom: 3%;
+}
+
+.secondTitle{
+    margin-top: 2%;
+}

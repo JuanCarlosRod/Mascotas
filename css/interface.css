@@ -1,0 +1,50 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+.menuBox {
+    height: 10vh;
+}
+
+.menu {
+    height: 100%;
+    margin: 0;
+    border-radius: 15px;
+    margin-left: 4%;
+    margin-right: 4%;
+    padding: 0;
+    overflow: hidden;
+    background-color: #232D39;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 14px 10px 14px 2px #000000;
+}
+
+.menu li {
+    font-weight: bold;
+    display: flex;
+    height: 100%;
+    float: left;
+    align-items: center;
+}
+
+.menu li a {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 15px;
+}
+
+.menu li a:hover {
+    color: burlywood;
+}
+
+.headerImg {
+    text-align: center;
+}
